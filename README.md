@@ -4,8 +4,8 @@
 
 ### Mobile
 
-<img src="./Screenshot/Mobile.png" width="390px" height="844px">
+<img src="./screenshot/Mobile.png" width="390px" height="844px">
 
 ### Desktop
 
-<img src="./Screenshot/Desktop.png">
+<img src="./screenshot/Desktop.png">
